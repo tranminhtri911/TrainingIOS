@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Ex1
+//  Ex1_drag_drop
 //
 //  Created by Tran Tri on 3/6/18.
 //  Copyright © 2018 Tran Tri. All rights reserved.
