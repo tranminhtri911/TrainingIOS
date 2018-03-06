@@ -1,15 +1,15 @@
 //
-//  Ex1Tests.swift
-//  Ex1Tests
+//  Ex1_drag_dropTests.swift
+//  Ex1_drag_dropTests
 //
 //  Created by Tran Tri on 3/6/18.
 //  Copyright © 2018 Tran Tri. All rights reserved.
 //
 
 import XCTest
-@testable import Ex1
+@testable import Ex1_drag_drop
 
-class Ex1Tests: XCTestCase {
+class Ex1_drag_dropTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
